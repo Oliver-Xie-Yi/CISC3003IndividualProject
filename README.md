@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project include two parts. 
+This project includes two parts. 
 
 Part A is the fourth Project (Project Walkthrough Example by Mr. Web Designer).
 
