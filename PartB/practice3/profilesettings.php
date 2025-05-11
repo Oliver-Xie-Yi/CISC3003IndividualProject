@@ -9,7 +9,7 @@
 
 <section class="profile">
     <div class="profile-bg">
-        <div class="wrapper2">
+        <div class="wrapper">
             <div class="profile-settings">
               <h3>PROFILE SETTINGS</h3>
               <p>Change your about section here!</p>

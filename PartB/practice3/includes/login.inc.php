@@ -16,6 +16,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
     // Running error handlers and user login
     $login->loginUser();
 
-    // Going to profile page after successful login
-    header("location: ../profile.php?error=none");
+    // Going to back to front page
+    header("location: ../index.php?error=none");
 }
